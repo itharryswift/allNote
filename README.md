@@ -1,7 +1,7 @@
 # allNote
 all mistake note
 
-
+111
 https://blog.csdn.net/weixin_44446230/article/details/123710202
 # 1.docker安装mysql 8.0/5.7版本，执行sql报错sql_mode=only_full_group_by问题解决
 Cause: java.sql.SQLSyntaxErrorException: Expression #2 of SELECT list is not in GROUP BY clause and contains nonaggregated column ‘wechatworkx.u.user_name’ which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
